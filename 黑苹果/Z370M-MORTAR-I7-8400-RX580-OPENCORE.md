@@ -8,10 +8,7 @@
 - Graphics: Intel UHD Graphics 630 & RX580
 - SIMBOS :  iMacPro19,1
 
-Notice:  inject your seriel number and those shit thing.
 
-注意： 记得注入三码。
-
-Only for macOS 10.15 , if you want 10.14 or later , change it by yourself。
+Only for macOS 11.x , if you want 10.14 or later , change it by yourself。
 只兼容 10.15 ，如果你打算用来装10.14或之前的，自己增删改查一下。
 ![this mac](about%20this%20mac.png)
