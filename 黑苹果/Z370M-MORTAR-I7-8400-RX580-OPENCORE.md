@@ -11,4 +11,6 @@
 
 Only for macOS 11.x , if you want 10.15 or later , change it by yourself。
 只兼容 11.1 ，如果你打算用来装10.15或之前的，自己增删改查一下。
-![this mac](about%20this%20mac.png)
+![info1](info1.jpg)
+![info2](info2.jpg)
+![this mac](info3.jpg)
