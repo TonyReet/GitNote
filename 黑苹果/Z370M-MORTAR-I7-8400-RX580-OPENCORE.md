@@ -4,10 +4,9 @@
 
 - mortherbroad : MSI Mortar Z370M
 - CPU: intel i5 8400
-- Disk : PLEXTORPX M9peg 1t 
-- Graphics: Intel UHD Graphics 630 & RX470
-- Memory: Corsair DDR4 3200 MHz ( oc to 3333Mhz)
-- SIMBOS :  iMac (2019) 
+- Disk : HP 惠普 EX900 M.2 NVMe 固态硬盘 500GB
+- Graphics: Intel UHD Graphics 630 & RX580
+- SIMBOS :  iMacPro19,1
 
 Notice:  inject your seriel number and those shit thing.
 
