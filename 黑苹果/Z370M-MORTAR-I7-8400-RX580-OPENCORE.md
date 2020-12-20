@@ -1,6 +1,8 @@
 # MSI(微星) z370m mortar i5-8400 RX580 OPENCORE
 
-##  关于这台黑苹果
+##  关于这台黑苹果 
+
+### 网卡正常，隔空投送，硬件加速正常
 
 - mortherbroad : MSI Mortar Z370M
 - CPU: intel i5 8400
@@ -13,4 +15,4 @@ Only for macOS 11.x , if you want 10.15 or later , change it by yourself。
 只兼容 11.1 ，如果你打算用来装10.15或之前的，自己增删改查一下。
 ![info1](info1.jpg)
 ![info2](info2.jpg)
-![this mac](info3.jpg)
+![info3](info3.jpg)
