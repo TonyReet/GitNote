@@ -9,6 +9,6 @@
 - SIMBOS :  iMacPro19,1
 
 
-Only for macOS 11.x , if you want 10.14 or later , change it by yourself。
-只兼容 10.15 ，如果你打算用来装10.14或之前的，自己增删改查一下。
+Only for macOS 11.x , if you want 10.15 or later , change it by yourself。
+只兼容 11.1 ，如果你打算用来装10.15或之前的，自己增删改查一下。
 ![this mac](about%20this%20mac.png)
