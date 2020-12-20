@@ -3,7 +3,7 @@
 ##  关于这台黑苹果
 
 - mortherbroad : MSI Mortar Z370M
-- CPU: intel i5 9700k
+- CPU: intel i5 8400
 - Disk : PLEXTORPX M9peg 1t 
 - Graphics: Intel UHD Graphics 630 & RX470
 - Memory: Corsair DDR4 3200 MHz ( oc to 3333Mhz)
