@@ -6,19 +6,11 @@
 ## 2. 数据类型：
 |类型||
 |-|-|
-|类型|Int Float Double Bool Character String Array Dictionary Tuple Optional Set|
+|值类型|Int Float Double Bool Character String Array Dictionary Tuple Optional Set|
 |引用类型|class|
+    
+### 3.小数默认为Double型，需要自行设置为Float 
 
-
-
-Swift中的中包括有符号整型和无符号整型
-
-字符串：@"abc\(x)"  x为一个整型数据或其他：在Swift中没有stringWithFormat的用法  用\()代替
-
-1> 定义一个指定类型的变量/ 常量，如下格式：
-let age: Int = 10
-
-2> Swift中的小数默认为Double型，需要自行设置为Float 
 3> Swift强调语法安全：不同类型的两个变量 不能相加
 4> 浮点数可以用十进制和十六进制表示 
 十进制表示浮点数：eN：10的N次方
