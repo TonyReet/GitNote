@@ -34,5 +34,5 @@ printf(a)
 
 // 错误
 let a: Int
-printf(a) // 常量Constant 'a' used before being initialized
+printf(a) // Constant 'a' used before being initialized(常量a在初始化之前使用了)
 ```
