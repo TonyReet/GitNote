@@ -4,12 +4,12 @@
 常量：`let age = 10`
 
 ## 2. 数据类型：
-|类型|||
-|-|-|-|
-|引用类型|content2|content3|
-|引用类型|content2|content3|
+|类型||
+|-|-|
+|类型|Int Float Double Bool Character String Array Dictionary Tuple Optional Set|
+|引用类型|class|
 
-Int Float Double Bool  Character String Array Dictionary Tuple(元组类型) Optional(可选类型)
+
 
 Swift中的中包括有符号整型和无符号整型
 
