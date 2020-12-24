@@ -21,4 +21,9 @@ let d1 = 12.5 // double
 let d2: float = 12.5 // float
 ```
 
-### 4. let是
+### 4. let只能赋值一次，不要求在编译期间确定值，但是在使用之前必须赋值
+```
+let a: Int
+a = 10
+printf(a)
+```
