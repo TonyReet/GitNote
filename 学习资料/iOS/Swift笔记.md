@@ -1,15 +1,10 @@
 # 1.基础语法
 ## 1.声明变量 常量
-：`var age = 10`
-声明常量：`let age = 10`
+变量：`var age = 10`
+常量：`let age = 10`
 
-二进制前缀：0b（必须小写）
+## 2. 基本数据类型：
 
-八进制前缀：0o
-
-十六进制前缀：0x
-
-2. 基本数据类型：
 Int Float Double Bool  Character String Array Dictionary Tuple(元组类型) Optional(可选类型)
 
 Swift中的中包括有符号整型和无符号整型
