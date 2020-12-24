@@ -11,7 +11,7 @@
     
 ### 3.小数默认为Double型，需要自行设置为Float 
 `
-let d1 = 12.5 // double
+let d1 = 12.5 // double     
 let d2: float = 12.5 // float
 `
 
