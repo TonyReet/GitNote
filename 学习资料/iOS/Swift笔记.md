@@ -36,3 +36,7 @@ printf(a)
 let a: Int
 printf(a) // Constant 'a' used before being initialized(常量a在初始化之前使用了)
 ```
+
+
+### Guard
+特别适用于提前退出
